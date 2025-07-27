@@ -20,3 +20,16 @@ int main() {
 
     return 0;
 }
+"desafio carta super_trunfo"
+#enclude<estudio.h>
+
+ int main(){
+    desafio super trunfo- brasil
+ char=estado (sao paulo)
+char=codigo[carta,A 01]
+char= cidade[jandira]
+int=populacao(1200000)
+float:area em km²(170.000)
+float:(500.0000000)
+int=ponto turistico(05)
+{    
